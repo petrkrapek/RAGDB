@@ -30,7 +30,7 @@ Skript načítá API klíče a URL ze souboru `.env`. Tento soubor není součá
 2.  **Vložte do něj své klíče** v následujícím formátu:
     ```
     OPENAI_API_KEY="sk-vas-openai-klic"
-    QDRANT_URL="[https://vas-qdrant-cluster.cloud.qdrant.io:6333](https://vas-qdrant-cluster.cloud.qdrant.io:6333)"
+    QDRANT_URL="https://vas-qdrant-cluster.cloud.qdrant.io:6333"
     QDRANT_API_KEY="vas-qdrant-klic"
     ```
 
