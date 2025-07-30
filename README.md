@@ -6,7 +6,7 @@ Tento projekt obsahuje Python skript pro načtení textových dat z `data.json`,
 
 1.  **Klonujte repozitář (nebo vytvořte soubory ručně):**
     ```bash
-    git clone [https://adresa-vaseho-repozitare.git](https://adresa-vaseho-repozitare.git)
+    git clone [https://github.com/petrkrapek/RAGDB.git]
     cd moje-qdrant-repo
     ```
 
