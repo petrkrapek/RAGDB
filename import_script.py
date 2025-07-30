@@ -30,7 +30,7 @@ QDRANT_URL = os.getenv("QDRANT_URL")
 QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
 
 COLLECTION_NAME = "moje_qdrant_kolekce"
-JSON_FILE_PATH = "./data.json"
+JSON_FILE_PATH = "data/data.json"
 EMBEDDING_MODEL = "text-embedding-3-small"
 EMBEDDING_DIMENSION = 1536
 
