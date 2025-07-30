@@ -1,0 +1,17 @@
+[
+  {
+    "id": "item-001",
+    "author": "Jan Novák",
+    "text": "Qdrant je vektorová databáze napsaná v Rustu, která poskytuje rychlé a škálovatelné vyhledávání podobnosti."
+  },
+  {
+    "id": "item-002",
+    "author": "Petra Dvořáková",
+    "text": "Vektorové databáze jsou klíčové pro aplikace umělé inteligence, jako jsou sémantické vyhledávače nebo systémy doporučování."
+  },
+  {
+    "id": "item-003",
+    "author": "Tomáš Černý",
+    "text": "OpenAI API umožňuje snadno generovat textové embeddings, které reprezentují sémantický význam textu jako číselné vektory."
+  }
+]
